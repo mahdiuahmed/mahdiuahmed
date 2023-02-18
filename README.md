@@ -1,7 +1,8 @@
 # :wave: MAHDI AHMED
 
-**`FULL STACK DEVELOPER, GRAPHIC DESIGNER AND VIDEOGRAPHER`**
+**`DEVELOPER, DESIGNER AND MEDIA PRODUCER`**
 
+---
 Hope your day is going well!
 It is a pleasure to welcome you to my portfolio.<br>With over 4+ years of programming expertise, I am all about design and development!
 <br>
