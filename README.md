@@ -1,6 +1,6 @@
 # :wave: MAHDI AHMED
 
-**`DEVELOPER, DESIGNER AND MEDIA PRODUCER`**
+**`DEVELOPER & DESIGNER`**
 
 ---
 Hope your day is going well!
