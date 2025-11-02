@@ -73,6 +73,6 @@ With 4+ years of coding adventures, I bridge the gap between beautiful design an
 ---
 
 
-![](https://github-readme-stats.vercel.app/api?username=mahdiahmed&show_icons=true&theme=radical&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiahmed&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiahmed&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mahdiuahmed&show_icons=true&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiuahmed&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiuahmed&theme=radical&hide_border=true&layout=compact)
