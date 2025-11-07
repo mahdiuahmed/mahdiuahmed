@@ -4,17 +4,18 @@
 
 _Building digital experiences with pixel-perfect precision and clean code_
 
+   <p align="left">
+      <a href="https://www.instagram.com/mahdiuahmed/" target="_blank">
+         <img alt="Instagram" height="40px" title="Follow My Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/mahmed01/" target="_blank">
+         <img alt="linkedin" height="40px" title="Connect on linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+   <a href="https://medium.com/@imahdiahmed01" target="_blank">
+         <img alt="medium" height="40px" title="Connect on medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
+   </p>
+
 Hi, I'm Mahdi — a multimedia designer and full-stack developer. I specialise in modern JavaScript frameworks, QA testing and DevOps practices. Feel free to check the rest of my portfolio below.
 With 4+ years of coding adventures, I bridge the gap between beautiful design and robust engineering.
 
-   <p align="left">
-      <a href="https://www.instagram.com/mahdiuahmed/" target="_blank">
-         <img alt="Instagram" height="40px" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-5851DB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-         <a href="mailto:imahdiahmed01@gmail.com" target="_blank">
-         <img alt="email" height="40px" title="Require my services?" src="https://custom-icon-badges.demolab.com/badge/-Contact-F25278?style=for-the-badge&logo=mail&logoColor=white"/></a> 
-   <a href="https://www.linkedin.com/in/mahmed01/" target="_blank">
-         <img alt="linkedin" height="40px" title="Connect on linkedin" src="https://custom-icon-badges.demolab.com/badge/-Connect-4393D1?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-   </p>
 
 ---
 
